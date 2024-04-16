@@ -11,7 +11,7 @@ from sklearn.metrics import f1_score,precision_score, recall_score
 import time
 
 
-print("Hello world")
+# print("Hello world")
 df = pd.read_csv("Training.csv")
 test_df = pd.read_csv("Testing.csv")
 
